@@ -16,7 +16,7 @@ rand = "*"
 openssl = "*"
 anyhow = "*"
 hex = "*"
-base64 = "*"
+base64 = "0.21"
 
 [dev-dependencies]
 async-std = { features = ["attributes"], version = "*" }
